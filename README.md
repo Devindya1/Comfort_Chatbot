@@ -1,23 +1,35 @@
-# ComfortBot — A Simple Comforting Chatbot in Python
+# Comfort Chatbot
 
-This is a simple chatbot built with Python's [ChatterBot](https://github.com/gunthercox/ChatterBot) library.  
-It offers comforting and supportive replies for basic emotional support.
+A simple, friendly chatbot built with Hugging Face's DialoGPT. This bot uses a text-generation pipeline to provide warm, supportive, and human-like replies.
 
----
-
-## Features
-
-- Trained on default English corpus for general conversation  
-- Custom comforting responses for emotional support  
-- Easy to run locally — no API key or internet needed
+✅ **Works on Python 3.11+**  
+✅ **No API key required**  
+✅ Hugging Face Transformers + PyTorch
 
 ---
 
-## Setup
+## ⚡️ Status
+This project is still **in development**. You might encounter errors or unexpected behavior as it's a work in progress. I'm actively working to improve it and add more features.
 
-1. Clone the repository:
+---
 
-```bash
-git clone https://github.com/yourusername/ComfortBot.git
-cd ComfortBot
+## ⚡️ Features
+- Simple CLI interface  
+- Friendly, text-based responses  
+- Easily customizable  
+- Works with Hugging Face’s `DialoGPT-small` model  
 
+---
+
+## 🐍 Requirements
+- Python 3.11 or higher  
+- `transformers`  
+- `torch`  
+
+---
+
+## ⚙️ Installation
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/your-username/Comfort_Chatbot.git
+   cd Comfort_Chatbot
