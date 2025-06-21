@@ -31,5 +31,5 @@ This project is still **in development**. You might encounter errors or unexpect
 ## ⚙️ Installation
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/Comfort_Chatbot.git
+   git clone https://github.com/Devindya1/Comfort_Chatbot.git
    cd Comfort_Chatbot
